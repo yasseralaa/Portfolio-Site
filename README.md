@@ -1,6 +1,10 @@
 **Portfolio-Site**
 
 
+![ScreenShot](https://github.com/yasseralaa/Portfolio-Site/blob/master/screenshots/Portfolio%20Site(desktop).png)
+![ScreenShot](https://github.com/yasseralaa/Portfolio-Site/blob/master/screenshots/resonsive%20on%20Nexus5.png)
+![ScreenShot](https://github.com/yasseralaa/Portfolio-Site/blob/master/screenshots/responsive%20on%20Ipad.png)
+
 **Description**
 
     - provided with a design mockup as a PDF-file i have replicated that design in HTML and CSS
